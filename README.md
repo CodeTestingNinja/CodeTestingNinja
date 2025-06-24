@@ -67,10 +67,29 @@
 
 ### 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-sayantandutta.job@gmail.com-D73A49?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantandutta.job@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayantan_Dutta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile-url/)
+<!-- This is a table to make the badges align nicely -->
+<table>
+  <tr>
+    <td>
+      <a href="mailto:sayantandutta.job@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D73A49?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+    <td>
+      <a href="www.linkedin.com/in/sayantan-dutta-551b73294">
+        <img src="https://img.shields.io/badge/LinkedIn-Sayantan_Dutta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <!-- THIS IS THE NEW PART -->
+      <a href="https://drive.google.com/uc?export=view&id=19ItOPc0xDMsOOjSkb83N52rwAZD0Pnrw">
+        <img src="https://img.shields.io/badge/Download_Resume-2E7D32?style=for-the-badge&logo=libreoffice-writer&logoColor=white" alt="Download Resume"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+---  
 
 ### 📈 My GitHub Stats
 
