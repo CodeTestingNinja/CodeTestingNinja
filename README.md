@@ -1,81 +1,80 @@
-<h1 align="center">Hi there, I'm Sayantan Dutta 👋</h1>
-
-<p align="center">
-  <em>Aspiring Machine Learning & Artificial Intelligence Engineer | Final-year B.Tech CSE</em><br>
-  <em>Building real-world AI solutions with curiosity and code 💡</em>
-</p>
+<div align="center">
+  <h1 align="center">Hi there, I'm Sayantan Dutta 👋</h1>
+  <p align="center">
+    <em>Aspiring Machine Learning & Artificial Intelligence Engineer | Final-year B.Tech CSE</em><br>
+    <em>Building real-world AI solutions with curiosity and code 💡</em>
+  </p>
+</div>
 
 ---
 
 ### 🔍 About Me
 
-🎓 I’m a final-year B.Tech student specializing in Computer Science & Engineering.  
-🤖 My passion lies in building intelligent systems using Machine Learning and Deep Learning.  
-🚀 I'm on a mission to turn data into decisions, one model at a time.
+🎓 I’m a final-year B.Tech CSE student specializing in Machine Learning and Deep Learning.  
+🤖 My passion lies in bridging the gap between complex data and actionable insights by building intelligent, end-to-end systems.  
+🚀 I'm on a mission to not only develop models but to build the full-stack applications that bring them to life.
 
 ---
 
-### 🛠 Tech Stack & Skills
+### 🛠️ My Tech Stack
 
-**Programming Languages**  
-`Python` • `Java`  
-
-**Machine Learning & AI**  
-`Supervised Learning` • `ANN` • `CNN` • `RNN` • `LSTM` • `BiLSTM`  
-`TF-IDF` • `Word2Vec` • `GloVe` • `Spacy` • `NLTK`  
-`Model Tuning:` `KerasTuner` • `GridSearchCV` • `EarlyStopping`  
-
-**Data Science & Visualization**  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`  
-`EDA` • `Feature Engineering` • `Dimensionality Reduction`
-
-**Tools & Platforms**  
-`TensorFlow` • `Keras` • `VS Code` • `Jupyter Notebook` • `Google Colab`  
-`PowerPoint` • `Word` • `Canva`
-
-**Soft Skills**  
-🧠 Problem Solving • 🤝 Teamwork • 🎯 Time Management • 🗣️ Communication
+| Category                   | Technologies & Tools                                                                                                 |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Languages**              | `Python` • `Java`                                                                                                    |
+| **Machine Learning & AI**  | `TensorFlow` • `Keras` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`                               |
+| **Deep Learning**          | `ANN` • `CNN` • `RNN` • `LSTM` • `BiLSTM`                                                                            |
+| **Natural Language Processing** | `NLTK` • `Spacy` • `TF-IDF` • `Word2Vec` • `GloVe`                                                                     |
+| **Tools & Platforms**      | `Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `Google Colab`                                                      |
 
 ---
 
-### 📌 Highlight Project
+### 📌 Highlighted Projects
 
-- 🔍 **[Fake News Detection using BiLSTM + GloVe](https://github.com/CodeTestingNinja/Fake-News-Detection)**  
-  Developed a deep learning model using BiLSTM and GloVe embeddings that classifies fake news with ~90% accuracy.  
-  Includes hyperparameter tuning with KerasTuner and comparative analysis with ML baselines.
+<details>
+<summary><strong>🚀 Full-Stack EDA Web Application (New!)</strong></summary>
+<br>
+
+> I taught myself full-stack development from scratch to build this application, bridging my passion for data science with the power of web technologies.
+
+-   **Description:** An end-to-end web app that automates the entire Exploratory Data Analysis workflow. Users can upload a CSV, perform interactive data cleaning (missing values, outliers), generate over 10 dynamic visualizations, and download a final PDF report.
+-   **Tech Stack:** `Django`, `Pandas`, `Matplotlib`, `HTML`, `CSS`, `JavaScript`, `Render`.
+-   **Links:**
+    -   [![Live Demo](https://img.shields.io/badge/Live_Demo-4A55A2?style=for-the-badge&logo=Render&logoColor=white)](https://eda-portfolio-tool.onrender.com)
+    -   [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeTestingNinja/Automated-EDA-Portfolio)
+
+</details>
+
+<details>
+<summary><strong>🔍 Fake News Detection using BiLSTM + GloVe (Final Year Project)</strong></summary>
+<br>
+
+-   **Description:** Developed a deep learning model using a Bidirectional LSTM and GloVe word embeddings to classify news articles, achieving ~90% test accuracy. The project involved rigorous hyperparameter tuning with KerasTuner and a comparative analysis against several ML/DL baseline models.
+-   **Tech Stack:** `Python`, `TensorFlow`, `Keras`, `Scikit-learn`, `NLTK`.
+-   **Links:**
+    -   [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeTestingNinja/Fake-News-Detection)
+
+</details>
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 What I've Been Working On
 
-- Transformers & Attention Mechanisms  
-- HTML • CSS • JavaScript (for full-stack capabilities)  
-- Building scalable and interpretable ML pipelines
-
----
-
-### 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-D73A49?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantandutta.job@gmail.com)
+-   **Full-Stack Development:** Just completed an intensive self-study project building and deploying a full-stack Django application, solidifying my skills in `HTML`, `CSS`, `JavaScript`, backend development, and cloud deployment (`Render`).
+-   **Advanced ML Concepts:** Deepening my understanding of Transformers, Attention Mechanisms, and building scalable, interpretable ML pipelines.
+-   **Open Source:** Actively looking for opportunities to contribute to data science and machine learning projects.
 
 ---
 
-### 📈 GitHub Stats
+### 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-sayantandutta.job@gmail.com-D73A49?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantandutta.job@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayantan_Dutta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile-url/)
+
+---
+
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeTestingNinja&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-### 💡 Quote I Live By
-
-> "The best way to predict the future is to invent it." — Alan Kay
-
----
-
-### 👁️ Visitors
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeTestingNinja" alt="visitor badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeTestingNinja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeTestingNinja&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
